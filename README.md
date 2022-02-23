@@ -9,6 +9,15 @@ Hi dear, I created a real-time PHP chatroom application using HTML, CSS, JavaScr
     2. After installing XAMPP, run Apache and MySQL server.
     3. Then you can access this chatroom !
 
+- ScreenShots
+    
+![1st](https://user-images.githubusercontent.com/94067118/155339518-33171e15-bf86-4a3a-8ccf-47d7c387bd0b.png)
+
+![2nd](https://user-images.githubusercontent.com/94067118/155339500-9608eb54-f1b9-47df-9d53-365cf6d2f2bc.png)
+
+![3rd](https://user-images.githubusercontent.com/94067118/155339515-0ab73c58-d520-4f21-a048-354078d6f854.png)
+
+
 ## 🔗 Links
 
 - Download XAMPP
