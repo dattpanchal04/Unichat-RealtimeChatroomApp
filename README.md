@@ -9,6 +9,14 @@ Hi dear, I created a real-time PHP chatroom application using HTML, CSS, JavaScr
     2. After installing XAMPP, run Apache and MySQL server.
     3. Then you can access this chatroom !
 
+- How to communicate with UniChat ?
+
+    1. First step is make a your chatroom.
+    2. Share the link of your chatroom to your friend or...!
+    3. And finally, when your friend send a message to you, his message is shown in your chatroom.
+    4. And also when you send a message to him/her , he/she also see this message.
+    5. This is how you communicate.
+
 - ScreenShots
     
 ![1st](https://user-images.githubusercontent.com/94067118/155339518-33171e15-bf86-4a3a-8ccf-47d7c387bd0b.png)
